@@ -1,0 +1,15 @@
+Amount measures that were taken: 5815
+
+Avarage in meters: 0.5386584178847638
+
+Standard deviation in meters: 0.0013732825954395618
+
+Median in meters: 0.53915
+
+Shortest measurement in meters: 0.533336
+
+Longest measurement in meters: 0.543026
+
+9 times a measure of 53 cm has been measured.
+5806 times a measure of 54 cm has been measured.
+

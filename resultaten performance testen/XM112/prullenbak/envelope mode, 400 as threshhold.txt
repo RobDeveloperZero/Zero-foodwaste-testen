@@ -1,0 +1,18 @@
+[5808] , 0
+
+[5809] , 0
+
+Amount measures that were taken: 5810
+
+Avarage in meters: 0.0
+
+Standard deviation in meters: 0.0
+
+Median in meters: 0.0
+
+Shortest measurement in meters: 0
+
+Longest measurement in meters: 0
+
+5810 times a measure of 0 cm has been measured.
+

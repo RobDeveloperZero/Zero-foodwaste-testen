@@ -1,0 +1,18040 @@
+8191
+31
+
+Seconds before starting: 59
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 59
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 59
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 59
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 59
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 59
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+16
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+27
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 1231
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 58
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+17
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+19
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 57
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 1234
+32
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+16
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 56
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+17
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 55
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+16
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 1161
+32
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+16
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 54
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+17
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+19
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+27
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+27
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 53
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+16
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+17
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+17
+
+Seconds before starting: 52
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 51
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+20
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+25
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 50
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 49
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+17
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+16
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+33
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 1190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 48
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 1254
+15
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 47
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+27
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+27
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+16
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 46
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+16
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+16
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8190
+33
+
+Seconds before starting: 45
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+17
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 44
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+16
+
+Seconds before starting: 43
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+33
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 42
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 1196
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 1176
+31
+
+Seconds before starting: 41
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+17
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 1248
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 1209
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 40
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+33
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 39
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 38
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 1168
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+25
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 37
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+17
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 36
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 35
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+27
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+20
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 34
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+19
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+27
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 33
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 1242
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 32
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+19
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+27
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+19
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+26
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 31
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+25
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+20
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+25
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 30
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+26
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+25
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+25
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 29
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+19
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 28
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 27
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 100
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 22
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 8
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 14
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 17
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 16
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 16
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 18
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 14
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 16
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 12
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 14
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 12
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 12
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 14
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 14
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 13
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 11
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 11
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 13
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 14
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 13
+32
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 14
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 16
+31
+
+Seconds before starting: 26
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 13
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 13
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 14
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 14
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 14
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 16
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 14
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 13
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 15
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 15
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 16
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 16
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 14
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 15
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 16
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 17
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 17
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 18
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 16
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 12
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 14
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 17
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 19
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 20
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 20
+31
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 86
+32
+
+Seconds before starting: 25
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+19
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+26
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 24
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+26
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 23
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+33
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 22
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 21
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 20
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+20
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+26
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 1237
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 19
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 18
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 1206
+26
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 1143
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+26
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 1152
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 17
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 1234
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+19
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 1188
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+20
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 16
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 1258
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 15
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 14
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 13
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 12
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+19
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+27
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 11
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+19
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 1264
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 10
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 9
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+25
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+33
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 1257
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 8
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 1239
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+29
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 1218
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 7
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+22
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+25
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+26
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+20
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 6
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+25
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 5
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 1228
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 1234
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+30
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 4
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+28
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 3
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+14
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+25
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 2
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+23
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 1118
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 1141
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+15
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+20
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+26
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 1
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+18
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 1214
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8191
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+32
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+24
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+21
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+31
+
+Seconds before starting: 0
+Range measurement of sensor 1 in mm: 8190
+32
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1166
+ Time left for measuring : 296
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1193
+ Time left for measuring : 286
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1120
+ Time left for measuring : 285
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1156
+ Time left for measuring : 281
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1162
+ Time left for measuring : 255
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1189
+ Time left for measuring : 248
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1142
+ Time left for measuring : 240
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1193
+ Time left for measuring : 226
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1199
+ Time left for measuring : 214
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1146
+ Time left for measuring : 210
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1118
+ Time left for measuring : 195
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1186
+ Time left for measuring : 194
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1067
+ Time left for measuring : 188
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1154
+ Time left for measuring : 185
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1040
+ Time left for measuring : 179
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1048
+ Time left for measuring : 169
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1145
+ Time left for measuring : 161
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1145
+ Time left for measuring : 159
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1175
+ Time left for measuring : 140
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1168
+ Time left for measuring : 137
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1140
+ Time left for measuring : 133
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1191
+ Time left for measuring : 130
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1104
+ Time left for measuring : 129
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1146
+ Time left for measuring : 129
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1008
+ Time left for measuring : 121
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1112
+ Time left for measuring : 114
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1180
+ Time left for measuring : 109
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1171
+ Time left for measuring : 104
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1069
+ Time left for measuring : 95
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+908
+ Time left for measuring : 87
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1195
+ Time left for measuring : 86
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1170
+ Time left for measuring : 84
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1192
+ Time left for measuring : 61
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1054
+ Time left for measuring : 57
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1174
+ Time left for measuring : 40
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1172
+ Time left for measuring : 39
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1102
+ Time left for measuring : 31
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1138
+ Time left for measuring : 17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1191
+ Time left for measuring : 13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1126
+ Time left for measuring : 8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1128
+ Time left for measuring : 6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1182
+ Time left for measuring : 1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Measure time is done.
+Amount measures that were taken : 42
+Measures that missed the target: 9990
+Avarage mm: 1137
+Standard deviation mm: 59.28
+Median mm: 1154
+Shortest measure in mm: 908
+Longest measure in mm: 1199
+Measurements taken from sensor: 
+1 times a measure of 908 mm has been measured.
+1 times a measure of 1008 mm has been measured.
+1 times a measure of 1040 mm has been measured.
+1 times a measure of 1048 mm has been measured.
+1 times a measure of 1054 mm has been measured.
+1 times a measure of 1067 mm has been measured.
+1 times a measure of 1069 mm has been measured.
+1 times a measure of 1102 mm has been measured.
+1 times a measure of 1104 mm has been measured.
+1 times a measure of 1112 mm has been measured.
+1 times a measure of 1118 mm has been measured.
+1 times a measure of 1120 mm has been measured.
+1 times a measure of 1126 mm has been measured.
+1 times a measure of 1128 mm has been measured.
+1 times a measure of 1138 mm has been measured.
+1 times a measure of 1140 mm has been measured.
+1 times a measure of 1142 mm has been measured.
+2 times a measure of 1145 mm has been measured.
+2 times a measure of 1146 mm has been measured.
+1 times a measure of 1154 mm has been measured.
+1 times a measure of 1156 mm has been measured.
+1 times a measure of 1162 mm has been measured.
+1 times a measure of 1166 mm has been measured.
+1 times a measure of 1168 mm has been measured.
+1 times a measure of 1170 mm has been measured.
+1 times a measure of 1171 mm has been measured.
+1 times a measure of 1172 mm has been measured.
+1 times a measure of 1174 mm has been measured.
+1 times a measure of 1175 mm has been measured.
+1 times a measure of 1180 mm has been measured.
+1 times a measure of 1182 mm has been measured.
+1 times a measure of 1186 mm has been measured.
+1 times a measure of 1189 mm has been measured.
+2 times a measure of 1191 mm has been measured.
+1 times a measure of 1192 mm has been measured.
+2 times a measure of 1193 mm has been measured.
+1 times a measure of 1195 mm has been measured.
+1 times a measure of 1199 mm has been measured.
